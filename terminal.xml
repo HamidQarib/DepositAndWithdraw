@@ -1,0 +1,10 @@
+<terminal id="23565" type="ATM">
+    <server ip="192.168.0.77" port="8081"/>
+    <outlong path="term23565.long"/>
+    <transactions>
+        <transaction id="1" type="deposit" amount="100000" deposit="33227781"/>
+        <transaction id="3" type="deposit" amount="11" deposit="332277"/>
+        <transaction id="2" type="withdraw" amount="30" deposit="35527439"/>
+
+    </transactions>
+</terminal>

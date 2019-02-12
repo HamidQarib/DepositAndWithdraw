@@ -1,0 +1,26 @@
+{
+  "port": 8081,
+    "deposit":[
+      {
+        "customer": "Ali Alavi",
+        "id":"33227781",
+        "initialBalance":"1000",
+        "upperBound":"1000000"
+      },
+      {
+        "customer": "Ali mehri",
+        "id":"332277",
+        "initialBalance":"12",
+        "upperBound":"1000000"
+      },
+      {
+        "customer": "RezaRezaei",
+        "id":"35527439",
+        "initialBalance":"50",
+        "upperBound":"300"
+      }
+    ],
+  "outLog":"server.out"
+    
+  }
+
